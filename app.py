@@ -14,7 +14,6 @@ load_dotenv()
 
 PINECONE_API_KEY ="insert key"
 PINECONE_ENV ="insert key"
-# OPENAI_API_KEY = os.getenv('bjhDW59OrAxactxONM62T3BlbkFJgO0oFHE2yhYp7WLha2SG')
 openai_api_key = "insert key"
 
 
